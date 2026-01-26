@@ -1,0 +1,29 @@
+- Algoma University
+	- Bachelor of Computer Science 
+	- Online
+	- Degree (3 year)
+	- 3 semesters remaining 
+- Conestoga College
+	- Bachelor of Computer Science
+	- Degree (3 year)
+	- 2 semesters remaining
+- Trent University
+	- Bachelor of Computer Science
+	- Degree (4 year)
+	- 4 semesters remaining
+- Seneca Polytechnic
+	- Bachelor of Computer Science
+	- Degree (3 year)
+	- 4 semesters remaining
+- York University
+	- BSc - Bachelor of Computer Science
+	- Degree (3 year)
+	- 3 semesters remaining
+	- Ranked 47.0-49.2 for computer science
+- Lakehead University
+	- Any bachelor or honours degree
+	- [ONTransfer: Program Transfer Search](https://ontransfer.ca/i/ontransfer+pathways_search_details?guid=P-5366-S-1-ALGO-R-2-LAKE)
+	- 38-50% done
+	- 28.7-34.7
+	
+[ONTransfer: Program Transfer Search](https://ontransfer.ca/i/ontransfer+pathways_search?m=3&f=f20_0&q=eyJzZW5kX3Byb2ciOiJfcHJtcy4yNTcwMzA1OTMyLF9wcm1zLjM5OTI5MzEwMjMsX3BybXMuMjg2Mjk4NjQyMSxfcHJtcy4xODg5NzYxMTkyLDExLjAyMDEuT05DLF9wcm1zLjU0OTQ2NTg0NyxfcHJtcy4zMDQ5NTIwMDIzLDA3LjAwMDcuT05DIiwic2VuZF9jcmVkIjoiQ0FEIiwic2VuZF9pbnN0IjoiQUxHTyIsInJlY3ZfcHJvZyI6Il9wcm1yLjM2MTE0NjQwNTksX3BybXIuMjg3NDIzMTM1NSxfcHJtci40MjU5OTQ4ODYzLDExLjA3MDEsX3BybXIuMTkwMjExNTUwMCxfcHJtci4yNjg5MzE0NDMxLF9wcm1yLjQwNzQzODQxNzcsMDcuMDAwNy5PTkMsX3BybXIuMTA4NjM1MTk0In0=)

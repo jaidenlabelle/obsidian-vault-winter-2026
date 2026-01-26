@@ -1,0 +1,4 @@
+1. An entrepreneur that I admire
+2. New technology innovations can be applied to take advantage of the disruptor by building upon it. For example, AI video generators. They built upon the disruptor that is AI image generation, which itself built upon AI text generation technology.
+3. I have not participated in starting a business, because I have had trouble identifying a market with a unfulfilled demand, that I also have the ability to create the solution for that market. For example last month I had the idea to create a Video Management System that would be simpler for normal consumers to use then the current complicated solutions that are oriented towards businesses. I ran polls on Reddit to identify customer needs, and came to the conclusion that the people who spend the most on 
+4. I did not use any websites to assist in my answers.
