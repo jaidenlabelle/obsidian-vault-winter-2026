@@ -11,14 +11,14 @@
             "id": "68a9fd771e159909",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "MGT0114 Entrepreneurship/Week 2.md",
-                "mode": "source",
-                "source": false
+                "aFile": "MGT0114 Entrepreneurship/Assignment - Week 3.md",
+                "bFile": "MGT0114 Entrepreneurship/Assignment - Week 3.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Week 2"
+              "icon": "diff",
+              "title": "Diff: Assignment - Week 3  (Working Tree)"
             }
           }
         ]
@@ -164,13 +164,33 @@
               "icon": "lucide-list",
               "title": "Outline of Brightspace Bot"
             }
+          },
+          {
+            "id": "af2cd42fea30dc45",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "10dd1b819ed4905c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,16 +200,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "68a9fd771e159909",
   "lastOpenFiles": [
+    "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 2 Journal.md",
+    "MGT0114 Entrepreneurship/Assignment - Week 3.md",
+    "MGT0114 Entrepreneurship/Slides/Week 1 - Introduction to Entrepreneurship and Innovation.pdf",
     "MGT0114 Entrepreneurship/Week 1.md",
     "MGT0114 Entrepreneurship/Week 2.md",
     "MGT0114 Entrepreneurship/Slides/Week 2 - Entrepreneurship, Emerging Technologies, and Economic Growth.pdf",
     "MGT0114 Entrepreneurship/Overview.md",
-    "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 2 Journal.md",
     "CST8514 Business and Information Technology/Slides/Week 2 - Business Process.pdf",
     "CST8514 Business and Information Technology/Slides/Weekly Schedule.pdf",
     "CST8514 Business and Information Technology/Overview.md",
@@ -197,7 +220,6 @@
     "CST8514 Business and Information Technology/Slides/Week 1 - Business Concepts.pdf",
     "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 1 Journal.md",
     "MGT0114 Entrepreneurship/Journal Rough Drafts",
-    "MGT0114 Entrepreneurship/Slides/Week 1 - Introduction to Entrepreneurship and Innovation.pdf",
     "MGT0114 Entrepreneurship/Slides",
     "CST8515 Applied Research Project 2/Overview.md",
     "Brightspace Bot.md",
