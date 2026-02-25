@@ -1,0 +1,2 @@
+- Entrepreneurship is the act of creating a business to generate a profit.
+	- It is more than merely starting a business, it also involves a set of activities associated with anticipating the needs and wants of consumers, and undertaking innovation, finance, and business acumen to transform innovations into economic goods”
