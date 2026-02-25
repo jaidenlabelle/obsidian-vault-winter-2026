@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "45f445d87072b3e3",
+        "id": "a01479b66540d949",
         "type": "tabs",
         "children": [
           {
-            "id": "68a9fd771e159909",
+            "id": "4b4c41ccfbaced72",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": "MGT0114 Entrepreneurship/Assignment - Week 3.md",
-                "bFile": "MGT0114 Entrepreneurship/Assignment - Week 3.md",
-                "aRef": ""
+                "file": "MGT0114 Entrepreneurship/Slides/Week 4 - Key Drivers of Entrepreneurial Success in the Technology Sector.pdf"
               },
-              "icon": "diff",
-              "title": "Diff: Assignment - Week 3  (Working Tree)"
+              "icon": "lucide-file-text",
+              "title": "Week 4 - Key Drivers of Entrepreneurial Success in the Technology Sector"
             }
           }
         ]
@@ -181,8 +179,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,33 +202,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a9fd771e159909",
+  "active": "4b4c41ccfbaced72",
   "lastOpenFiles": [
-    "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 2 Journal.md",
-    "MGT0114 Entrepreneurship/Assignment - Week 3.md",
-    "MGT0114 Entrepreneurship/Slides/Week 1 - Introduction to Entrepreneurship and Innovation.pdf",
     "MGT0114 Entrepreneurship/Week 1.md",
+    "MGT0114 Entrepreneurship/Slides/Week 4 - Key Drivers of Entrepreneurial Success in the Technology Sector.pdf",
+    "MGT0114 Entrepreneurship/Assignment - Week 3.md",
+    "MGT0114 Entrepreneurship/Slides/Week 3 - Types of Innovation.pdf",
+    "2026-02-23.md",
+    "Untitled.md",
+    "Project.md",
+    "MGT0114 Entrepreneurship/Overview.md",
     "MGT0114 Entrepreneurship/Week 2.md",
     "MGT0114 Entrepreneurship/Slides/Week 2 - Entrepreneurship, Emerging Technologies, and Economic Growth.pdf",
-    "MGT0114 Entrepreneurship/Overview.md",
+    "MGT0114 Entrepreneurship/Slides/SA - Week 03 - Types of Innovation.pptx",
+    "MGT0114 Entrepreneurship/Slides/Week 1 - Introduction to Entrepreneurship and Innovation.pdf",
     "CST8514 Business and Information Technology/Slides/Week 2 - Business Process.pdf",
-    "CST8514 Business and Information Technology/Slides/Weekly Schedule.pdf",
-    "CST8514 Business and Information Technology/Overview.md",
-    "CST8514 Business and Information Technology/Untitled.md",
-    "CST8514 Business and Information Technology/Slides/Week 1 - Business Concepts.pdf",
-    "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 1 Journal.md",
-    "MGT0114 Entrepreneurship/Journal Rough Drafts",
-    "MGT0114 Entrepreneurship/Slides",
+    "CST8514 Business and Information Technology/Slides/Week 3 - Business Information Systems - Part 1.pdf",
+    "CST8514 Business and Information Technology/Midterm.md",
+    "CST8514 Business and Information Technology/Quiz 3.md",
+    "CST8514 Business and Information Technology/Quiz 4.md",
+    "CST8514 Business and Information Technology/Quiz 5.md",
+    "MGT0114 Entrepreneurship/Project/Overview.md",
+    "MGT0114 Entrepreneurship/Project",
+    "CST8514 Business and Information Technology/Quiz 6.md",
+    "Attachments/Pasted image 20260128182445.png",
     "CST8515 Applied Research Project 2/Overview.md",
-    "Brightspace Bot.md",
     "University/Algoma University.md",
+    "Attachments/Pasted image 20260218181347.png",
+    "Attachments/Pasted image 20260204184305.png",
+    "Attachments",
+    "Upgrade.md",
+    "Attachments/Pasted image 20260218181337.png",
+    "Attachments/Pasted image 20260218181255.png",
+    "Attachments/Pasted image 20260218181231.png",
+    "Attachments/Pasted image 20260218181215.png",
+    "Attachments/Pasted image 20260218181158.png",
+    "Attachments/Pasted image 20260218181138.png",
+    "Attachments/Pasted image 20260218181116.png",
+    "Photos",
+    "Brightspace Bot.md",
     "CST8513 Quality Assurance and Testing/Overview.md",
+    "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 2 Journal.md",
+    "CST8514 Business and Information Technology/Overview.md",
+    "MGT0114 Entrepreneurship/Journal Rough Drafts/Week 1 Journal.md",
     "University/OUAC.md",
     "University/York University.md",
     "University/Transfer Opportunities.md",
-    "CST8515 Applied Research Project 2/Slides/Weekly Schedule.pdf",
-    "University",
-    "CST8513 Quality Assurance and Testing/Slides/Weekly Schedule.pdf",
     "Welcome.md"
   ]
 }
